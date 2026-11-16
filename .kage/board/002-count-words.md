@@ -1,11 +1,14 @@
 ---
 id: 002
 title: Add a word counter
-status: todo
+status: built
 kind: guided
 area: text helpers
 critical: no
 screen: no
+commit: bf0f4a2a97f11ccf9bf0d951af4cad7e54520c62
+screenshots: runs/20261116-032201/screenshots/002
+branch: 
 ---
 
 ## What you will see
