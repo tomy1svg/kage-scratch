@@ -1,11 +1,14 @@
 ---
 id: 001
 title: Add a whisper helper
-status: todo
+status: built
 kind: guided
 area: text helpers
 critical: no
 screen: no
+commit: 1faf97e7e3807bac5221a2a7865f51ecea90dd21
+screenshots: runs/20261116-032201/screenshots/001
+branch: 
 ---
 
 ## What you will see
