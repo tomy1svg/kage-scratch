@@ -1,4 +1,4 @@
-"""Small text helpers."""
+"""Tiny text helpers."""
 
 
 def shout(text):
