@@ -1,3 +1,5 @@
 {
-  "checks": [{"name": "tests", "run": "python3 -m unittest -q"}]
+  "checks": [{"name": "tests", "run": "python3 -m unittest -q"}],
+  "real_app": {"start": "python3 -m http.server $KAGE_PORT --bind 127.0.0.1", "path": "/textkit.py"},
+  "ports": {"copy": 34160, "jobs_from": 34161}
 }
